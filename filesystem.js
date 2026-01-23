@@ -21,4 +21,7 @@ const fs = require('fs')
 // fs.unlinkSync('dummy.js')
 
 
-fs.writeFileSync('tiral.js', 'hello')
+// fs.writeFileSync('tiral.js', 'hello')
+// fs.writeFileSync('pages/extra.js', 'hello')
+
+// https://github.com/shubhamkumar123456/TG-402-A8.git
